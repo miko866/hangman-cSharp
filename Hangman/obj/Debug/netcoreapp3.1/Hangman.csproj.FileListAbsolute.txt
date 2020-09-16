@@ -1,0 +1,12 @@
+/Users/michalevo/Desktop/My_Code/C#/Hangman/Hangman/obj/Debug/netcoreapp3.1/Hangman.csprojAssemblyReference.cache
+/Users/michalevo/Desktop/My_Code/C#/Hangman/Hangman/obj/Debug/netcoreapp3.1/Hangman.AssemblyInfoInputs.cache
+/Users/michalevo/Desktop/My_Code/C#/Hangman/Hangman/obj/Debug/netcoreapp3.1/Hangman.AssemblyInfo.cs
+/Users/michalevo/Desktop/My_Code/C#/Hangman/Hangman/obj/Debug/netcoreapp3.1/Hangman.csproj.CoreCompileInputs.cache
+/Users/michalevo/Desktop/My_Code/C#/Hangman/Hangman/bin/Debug/netcoreapp3.1/Hangman.deps.json
+/Users/michalevo/Desktop/My_Code/C#/Hangman/Hangman/bin/Debug/netcoreapp3.1/Hangman.runtimeconfig.json
+/Users/michalevo/Desktop/My_Code/C#/Hangman/Hangman/bin/Debug/netcoreapp3.1/Hangman.runtimeconfig.dev.json
+/Users/michalevo/Desktop/My_Code/C#/Hangman/Hangman/bin/Debug/netcoreapp3.1/Hangman.dll
+/Users/michalevo/Desktop/My_Code/C#/Hangman/Hangman/bin/Debug/netcoreapp3.1/Hangman.pdb
+/Users/michalevo/Desktop/My_Code/C#/Hangman/Hangman/obj/Debug/netcoreapp3.1/Hangman.dll
+/Users/michalevo/Desktop/My_Code/C#/Hangman/Hangman/obj/Debug/netcoreapp3.1/Hangman.pdb
+/Users/michalevo/Desktop/My_Code/C#/Hangman/Hangman/obj/Debug/netcoreapp3.1/Hangman.genruntimeconfig.cache
